@@ -14,18 +14,24 @@ This document also serves as practice for the proper documentation style before 
 1. Upon opening the VM, I checked the files in my directory, then navigated to the local respository to find my previous two entries.
 2. Using mv, I renamed entry01 and entry02 to entry01.md and entry02.md
 
-```mv entry01 "entry01.md"
-mv entry02 "entry02.md"```
+```
+mv entry01 "entry01.md"
+mv entry02 "entry02.md"
+```
 
 3. I then commited the changes to GitHub and pushed them to the remote repository
 
-```git add "entry01.md"
+```
+git add "entry01.md"
 git commit -m "entry01.md"
-git push origin main```
+git push origin main
+```
 
-```git add entry02.md
+```
+git add entry02.md
 git commit -m "entry02.md"
-git push origin main```
+git push origin main
+```
 
 ## Results
 Rather than renaming the files in the remote repository, I now have files both with and without the .md extension. As the original files weren't written in Markdown, I'm not sure if the .md extension ensured that the new files are in Markdown.
