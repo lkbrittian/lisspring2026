@@ -13,6 +13,7 @@ This document also serves as practice for the proper documentation style before 
 ## Steps for Completion
 1. Upon opening the VM, I checked the files in my directory, then navigated to the local respository to find my previous two entries.
 2. Using mv, I renamed entry01 and entry02 to entry01.md and entry02.md
+
 ```mv entry01 "entry01.md"
 mv entry02 "entry02.md"```
 
