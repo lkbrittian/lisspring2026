@@ -50,15 +50,15 @@ find @and @attr 1=4 "information" @attr 1=21 "library science"
 
 Each part of the command works to build a search the way one would search a database.
 
-Find = the command to search
-@and = AND boolean search
-@attr = attribute, the metadata field to search
-"" = keyword to search
+- Find = the command to search
+- @and = AND boolean search
+- @attr = attribute, the metadata field to search
+- "" = keyword to search
 
-1=4 - Title
-1=21 - Subject Heading
-1=1 - Personal name
-1=1016 - Any
+- 1=4 - Title
+- 1=21 - Subject Heading
+- 1=1 - Personal name
+- 1=1016 - Any
 
 ```
 show 1
