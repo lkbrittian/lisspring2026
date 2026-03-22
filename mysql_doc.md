@@ -3,6 +3,8 @@
 ## Overview
 This record will document the process of installing and configuring MySQL to complete the LAMP stack (Linux, Apache, MySQL, PHP).
 
+A LAMP stack is a collection of software that is used to host database-backed websites, with each piece of software providing a specfic function to build and host the website. Because each piece of software used in a LAMP stack is open source, it's free to use and can be adjusted to the user's needs, making it easily accessible at a low cost and commonly used as a result.
+
 ## Environment
 - VM Provider: Google Cloud
 - OS:Ubuntu 24.04 LTS x86/64 
