@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document records the process of installing and configuring PHP.
+This document records the process of installing and configuring PHP. PHP is the next step in building a LAMP stack for hosting webpages.
 
 ## Environment
 - VM Provider: Google Cloud
