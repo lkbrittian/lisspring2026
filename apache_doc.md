@@ -2,7 +2,9 @@
 
 ## Overview
 
-This document describes the process of installing Apache, confirming its status, and using Apache to create a very basic website.
+This document describes the process of installing Apache, confirming its status, and using Apache to create a very basic website. This is done to begin building a LAMP stack.
+
+A LAMP stack is a collection of software (Apache, PHP, and MySQL) that is used to host database-backed websites, with each piece of software providing a specfic function to build and host the website. Because each piece of software used in a LAMP stack is open source, it's free to use and can be adjusted to the user's needs, making it easily accessible at a low cost and commonly used as a result.
 
 ## Environment
 - VM Provider: Google Cloud
