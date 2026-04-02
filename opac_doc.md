@@ -10,7 +10,7 @@ In this document, I will discuss practicing working with MySQL, creating a basic
 
 ## Introduction
 
-FILLER
+An OPAC (Online Public Access Catalog) is an internet-accessable version of a library catalog that can be searched through using an online portal with filters such as keywords, dates, medium, and other variables. OPACs are used by library patrons and librarians alike to find materials, update records of library holdings, and manage the currently existing records of library materials.
 
 ## Part One: Practicing MySQL
 
