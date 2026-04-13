@@ -7,11 +7,11 @@ This document describes the process needed to install and configure Omeka.
 ## Environment
 
 - VM Provider: Google Cloud
-- OS: Ubuntu
+- OS: Ubuntu 24.04 LTS x86/64
 
 ## Process
 
-I am begining this after a very long and painful day of removing and reinstalling WordPress(twice!) to fix whatever it is that I broke in the first go around and expanding the storage of my machine and having to reset the IP address (again). I'm still not sure what the original problem was, but my fingers are crossed that now that it seems stable it will not happen again. I completed the first couple steps of this progess before realizing something was wrong with WordPress and I will endevour to provide accurate notes of what I accomplished rather than writing them in real time.
+I am begining this after a very long and painful day of removing and reinstalling WordPress (twice!) to fix whatever it is that I broke in the first go around and expanding the storage of my machine and having to reset the IP address (again). I'm still not sure what the original problem was, but my fingers are crossed that now that it seems stable it will not happen again. I completed the first couple steps of this progess before realizing something was wrong with WordPress and I will endevour to provide accurate notes of what I accomplished rather than writing them in real time.
 
 ### Step 1 - Complete Prerequisites
 
