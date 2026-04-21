@@ -155,4 +155,4 @@ Which will give us the username and password for the Koha library we created. Fr
 
 ## Reflection
 
-Overall, installation went very smoothly. My machine didn't crash, I seem to have correctly enabled the firewalls on the VM instance, I didn't have to redo any commands or relaunch the server, and everything seems to be functioning as intended with Koha. Hopefully everything will remain optional. 
+Overall, installation went very smoothly. My machine didn't crash, I seem to have correctly enabled the firewalls on the VM instance, I didn't have to redo any commands or relaunch the server, and everything seems to be functioning as intended with Koha. Hopefully everything will remain operational. 
